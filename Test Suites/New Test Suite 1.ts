@@ -36,7 +36,7 @@
       <guid>3a414942-992d-4b96-aa76-9278d8802c73</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Login Functionality Test</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/Login Functionality Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
