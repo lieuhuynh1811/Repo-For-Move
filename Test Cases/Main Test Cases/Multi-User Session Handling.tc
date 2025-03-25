@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Multi-User Session Handling</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fccc6eb-9aae-41fb-b6d1-5e95cc5d72d4</testCaseGuid>
+</TestCaseEntity>
