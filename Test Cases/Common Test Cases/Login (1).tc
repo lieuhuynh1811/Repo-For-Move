@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description>Common test case used to login. 
+Steps:
+- Click on Book Appointment button to login
+- Input username and password
+- Click on Login button
+
+Expected result:
+Appointment section is displayed after successful login</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Login (1)</name>
+    <testCaseGuid>8728548c-559e-4c78-8f4e-8a6d40c32319</testCaseGuid>
+    <variable>
+        <defaultValue>ThisIsNotAPassword</defaultValue>
+        <description></description>
+        <id>6cf71141-13dd-42c6-9701-61678286b996</id>
+        <masked>false</masked>
+        <name>Password</name>
+    </variable>
+    <variable>
+        <defaultValue>John Doe</defaultValue>
+        <description></description>
+        <id>d3b13c23-8b42-4ed0-8f10-4a26cab649dc</id>
+        <masked>false</masked>
+        <name>Username</name>
+    </variable>
+</TestCaseEntity>
+
