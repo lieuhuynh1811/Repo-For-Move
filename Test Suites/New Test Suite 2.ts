@@ -34,7 +34,7 @@
       <guid>00f8c9b4-e342-4d43-9628-d3dcad940f9e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Shopping Cart Checkout Flow</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/Shopping Cart Checkout Flow</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,21 +53,21 @@
       <guid>13c96f8b-29bd-4370-86a0-6d8f555f7dde</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Search Feature Accuracy Test</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/Search Feature Accuracy Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8dfe3833-c90f-4f3c-9388-92e88bb96901</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Payment Gateway Integration Check</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/Payment Gateway Integration Check</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9983fd30-b0e3-40b1-b3b5-8c49cbf44934</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Password Reset Verification</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/Password Reset Verification</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
