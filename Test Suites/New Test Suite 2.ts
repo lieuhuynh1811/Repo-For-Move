@@ -15,7 +15,7 @@
       <guid>b9aa61ae-210f-4008-9163-e569643c7cc5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/User Profile Update Test</testCaseId>
+      <testCaseId>Test Cases/General Testing Folder/User Profile Update Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
