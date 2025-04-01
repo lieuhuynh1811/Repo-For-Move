@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Gateway Integration Check</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2133d33a-0eb1-11f0-839c-9b545e27f64d</testCaseGuid>
+</TestCaseEntity>
