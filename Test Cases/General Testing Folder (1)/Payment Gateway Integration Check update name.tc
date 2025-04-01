@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Payment Gateway Integration Check update name</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>a8eaf974-0eb2-11f0-919f-9e8fafd4126a</testCaseGuid>
+</TestCaseEntity>
+
