@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>Planning</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Planning Page</name>
+    <testCaseGuid>4a15fd80-d6df-459f-ac64-0528232816c8</testCaseGuid>
+</TestCaseEntity>
+

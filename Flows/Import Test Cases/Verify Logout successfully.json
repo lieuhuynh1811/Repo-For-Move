@@ -1,0 +1,1 @@
+{"version":"1.0.0","steps":[{"id":"9a5b33eb-4f27-423c-9c2b-344411f29d35","name":"Click on Avatar in navbar","context":{"metadata":{"expected_result":"","data":""}}},{"id":"abed2a8e-a065-4988-9286-f490aa946983","name":"Click on Log out button","context":{"metadata":{"expected_result":"Logout successfully","data":""}}}]}

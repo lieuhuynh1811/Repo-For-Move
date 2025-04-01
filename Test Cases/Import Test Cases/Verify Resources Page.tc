@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>Resources</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Resources Page</name>
+    <testCaseGuid>bd4210f1-fc0f-42a1-b9ba-f9ab63961e5b</testCaseGuid>
+</TestCaseEntity>
+
