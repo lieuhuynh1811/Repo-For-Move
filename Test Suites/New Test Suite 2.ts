@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>New Test Suite 2</name>
-   <tag></tag>
-   <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
-   <pageLoadTimeout>30</pageLoadTimeout>
-   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>335de9a1-9ae2-428a-88d8-796b2da9900d</testSuiteGuid>
-   <testCaseLink>
-      <guid>b9aa61ae-210f-4008-9163-e569643c7cc5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/General Testing Folder/User Profile Update Test</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c216578c-cb2e-4d1c-b10f-d8235fe8e905</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e44ac073-ce59-4379-82a2-a39c0f5fb53e</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>00f8c9b4-e342-4d43-9628-d3dcad940f9e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/General Testing Folder/Shopping Cart Checkout Flow</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>cc816c21-dd07-457c-993e-51e63412e6f4</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>15a1a2a8-8d55-443c-affe-5f661dda31d6</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>13c96f8b-29bd-4370-86a0-6d8f555f7dde</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/General Testing Folder/Search Feature Accuracy Test</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8dfe3833-c90f-4f3c-9388-92e88bb96901</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/General Testing Folder/Payment Gateway Integration Check</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9983fd30-b0e3-40b1-b3b5-8c49cbf44934</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/General Testing Folder/Password Reset Verification</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>20227755-2703-4e64-b324-1691d1280d94</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>83dbadf6-73a9-4ae7-8ad3-12a013daca63</variableId>
-      </variableLink>
-   </testCaseLink>
+  <description/>
+  <name>New Test Suite 2</name>
+  <tag/>
+  <isRerun>false</isRerun>
+  <mailRecipient/>
+  <numberOfRerun>0</numberOfRerun>
+  <pageLoadTimeout>30</pageLoadTimeout>
+  <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+  <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+  <rerunImmediately>false</rerunImmediately>
+  <testSuiteGuid>335de9a1-9ae2-428a-88d8-796b2da9900d</testSuiteGuid>
+  <testCaseLink>
+    <guid>b9aa61ae-210f-4008-9163-e569643c7cc5</guid>
+    <isReuseDriver>false</isReuseDriver>
+    <isRun>true</isRun>
+    <testCaseId>Test Cases/General Testing Folder/User Profile Update Test</testCaseId>
+    <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>c216578c-cb2e-4d1c-b10f-d8235fe8e905</variableId>
+    </variableLink>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>e44ac073-ce59-4379-82a2-a39c0f5fb53e</variableId>
+    </variableLink>
+  </testCaseLink>
+  <testCaseLink>
+    <guid>00f8c9b4-e342-4d43-9628-d3dcad940f9e</guid>
+    <isReuseDriver>false</isReuseDriver>
+    <isRun>true</isRun>
+    <testCaseId>Test Cases/General Testing Folder/Shopping Cart Checkout Flow</testCaseId>
+    <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>cc816c21-dd07-457c-993e-51e63412e6f4</variableId>
+    </variableLink>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>15a1a2a8-8d55-443c-affe-5f661dda31d6</variableId>
+    </variableLink>
+  </testCaseLink>
+  <testCaseLink>
+    <guid>13c96f8b-29bd-4370-86a0-6d8f555f7dde</guid>
+    <isReuseDriver>false</isReuseDriver>
+    <isRun>true</isRun>
+    <testCaseId>Test Cases/General Testing Folder/Search Feature Accuracy Test</testCaseId>
+    <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+  </testCaseLink>
+  <testCaseLink>
+    <guid>8dfe3833-c90f-4f3c-9388-92e88bb96901</guid>
+    <isReuseDriver>false</isReuseDriver>
+    <isRun>true</isRun>
+    <testCaseId>Test Cases/General Testing Folder/Payment Gateway Integration Check</testCaseId>
+    <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+  </testCaseLink>
+  <testCaseLink>
+    <guid>9983fd30-b0e3-40b1-b3b5-8c49cbf44934</guid>
+    <isReuseDriver>false</isReuseDriver>
+    <isRun>true</isRun>
+    <testCaseId>Test Cases/General Testing Folder/Password Reset Verification</testCaseId>
+    <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>20227755-2703-4e64-b324-1691d1280d94</variableId>
+    </variableLink>
+    <variableLink>
+      <testDataLinkId/>
+      <type>DEFAULT</type>
+      <value/>
+      <variableId>83dbadf6-73a9-4ae7-8ad3-12a013daca63</variableId>
+    </variableLink>
+  </testCaseLink>
 </TestSuiteEntity>
